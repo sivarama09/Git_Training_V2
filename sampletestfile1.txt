@@ -1,2 +1,1 @@
 This is sample file1
-commit revert 2
